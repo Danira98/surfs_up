@@ -14,7 +14,7 @@ The purpose of this report is to analyze the weather data for the location of Oa
 
 ## Results
 
-After using functions of sqlalchemy and pandas, we were able to filter out our data for the months of June and December. In total, we retrieve *1,700* temperatures for the month of June and *1,517* temperatures for the mont of December. The following are the statistics for both months:
+After using functions of sqlalchemy and pandas, we were able to filter out our data for the months of June and December. In total, we retrieve *1,700* temperatures for the month of June and *1,517* temperatures for the month of December. The following are the statistics for both months:
 
 June:
 
