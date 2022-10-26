@@ -28,7 +28,7 @@ December:
  
 - Although both months contained similar temperatures overall, the temperatures of June were higher than the temperatures of Decembre. The mean temperature of June was 74.94 degrees Fahrenheit with a standard deviation of 3.25, while the mean temperature of December was 71.04 degrees Fahrenheit with a standard deviation of 3.75; Because the standard deviation of June was lower than Decembre,meaning our numbers were closer to the mean,we can conclude that overall the temperatures during the month of June were higher.
 
-- Overall, June temperatures varied less than December temperatures. This can be observed if we compare the minimum and maximum values to their means; June's minimum and maximum temperature were rougly 10.06-10.94 degrees away from the mean , while December's minimum and maximum temperature were roughly 11.96-11.04 degrees away from the mean. Nonetheless, there is a high probabillity that both datasets contain outliers.
+- Overall, June temperatures varied less than December temperatures. This can be observed if we compare the minimum and maximum values to their means; June's minimum and maximum temperature were rougly 10.06-10.94 degrees away from the mean , while December's minimum and maximum temperature were roughly 11.96-15.04 degrees away from the mean. Nonetheless, there is a high probabillity that both datasets contain outliers.
 
 - Based on the statistics found above, it is highly likely that the shop will experience a higher amount of customers during the month of June than Decemeber since its temperature are higher.
 
